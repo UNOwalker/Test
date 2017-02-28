@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/UNOwalker/Test/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -25,6 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+![Image](https://cavsnation.com/wp-content/uploads/2017/01/Spenser-Heaps-Deseret-News-2.jpg)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
